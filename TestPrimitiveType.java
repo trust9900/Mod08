@@ -27,6 +27,7 @@ public class TestPrimitiveType {
        
         System.out.println("f1 = " + f1);//IEEE754 
         System.out.println("d1 = " + d1);//IEEE754 
-        System.out.println(0b010_1001);
+        System.out.println(8E-1);//0.8
+        System.out.println(1d);//1.0
     }    
 }
